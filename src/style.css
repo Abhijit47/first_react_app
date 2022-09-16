@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Roboto+Flex:opsz,wght@8..144,300;8..144,400&family=Ubuntu&display=swap');
+.heading {
+    font-family: 'Nabla', cursive;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: #114b5f;
+    border: 1px solid #ccc;
+    box-shadow: #333 0 0 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+}
+
+.heading2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: #114b5f;
+    border: 1px solid #ccc;
+    box-shadow: #333 0 0 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+}
+.box {
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: #114b5f;
+    border: 1px solid #ccc;
+    box-shadow: #333 0 0 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+}
+
+.btn {
+    background-color: #28b9e9;
+    color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: #333 0 0 10px;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #28b9e9;
+    border: 1px solid #ccc;
+    box-shadow: #333 0 0 10px;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+}
